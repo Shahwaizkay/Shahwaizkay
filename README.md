@@ -1,64 +1,78 @@
-![logo](https://github.com/Shahwaizkay/Shahwaizkay/blob/main/Beige%20Grey%20Vlogger%20YouTube%20Banner.png)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Shahwaizkay/Shahwaizkay/blob/main/Beige%20Grey%20Vlogger%20YouTube%20Banner.png" />
+</p>
 
+<!-- Typing Animation -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahwaiz+Ali!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shahwaiz+Ali;AI+Enthusiast+🤖;Machine+Learning+Explorer;Future+Data+Scientist" />
 </h1>
 
-<h3 align="center">An AI Enthusiast With Keen Interest in ML & DL</h3>
+<h3 align="center">🚀 Passionate about Artificial Intelligence, Machine Learning & Data Science</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Shahwaizkay/Shahwaizkay/blob/main/0_7Q3yvSIv_t0ioJ-Z.gif">
+---
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Shahwaizkay&label=Profile%20views&color=0e75b6&style=flat" alt="Shahwaizkay" /> 
-</p>
+## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Python Frameworks, ML, DL, Data Science courses etc**
+- 🎓 BS Artificial Intelligence Student  
+- 🌱 Currently learning **Machine Learning, Deep Learning & Data Science**  
+- 💡 Interested in **AI Projects, Automation & Data Analysis**  
+- 💬 Ask me about **Python, ML, Data Analysis**  
+- 📫 Email: **shahwaiza01@gmail.com**  
+- ⚡ Fun fact: *Debugging + Chai = Perfect Combo ☕*  
 
-- 💬 Ask me about **Python, Data Analysis**
+---
 
-- 📫 How to reach me **shahwaiza01@gmail.com**
+## 🌐 Connect With Me
 
-- ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shahwaizali27" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p align="center">
+<a href="https://linkedin.com/in/shahwaizali27">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/shahwaiz.kay" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://instagram.com/shahwaiz.kay">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://pandas.pydata.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-</a> 
-<a href="https://scikit-learn.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> 
-</a> 
-<a href="https://seaborn.pydata.org/" target="_blank"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> 
-</a> 
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,pandas,sklearn&theme=light" />
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahwaizkay&show_icons=true&locale=en&layout=compact" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shahwaizkay&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahwaizkay&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahwaizkay&show_icons=true&locale=en" />
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahwaizkay&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🎯 Goals
+
+- ✔ Build real-world AI projects  
+- ✔ Contribute to Open Source  
+- ✔ Become an AI Engineer  
+- ✔ Solve real problems using AI  
+
+---
+
+## ✨ Quote
+
+<p align="center">
+<b>“The best way to predict the future is to build it.”</b>
+</p>
+
